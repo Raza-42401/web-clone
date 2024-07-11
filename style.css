@@ -1,0 +1,379 @@
+#hed{
+    height: 60px;
+    width: 100%;
+    background-color: #262626;
+    display: flex;
+}
+#logo{
+    height: 50px;
+    width: 50%;
+    background-color: #262626;
+}
+#logo img{
+    height: 30px;
+    width: 150px;
+    margin-top: 15px;
+}
+#hed-btn{
+    height: 50px;
+    width: 50%;
+}
+#hed-btn button{
+    background-color: #82b440;
+    color: white;
+    height: 40px;
+    width: 94px;
+    border-radius: 8px;
+    font-size: 14px;
+    margin-top: 11px;
+    margin-left: 650px;
+    border-color: #82b440;
+}
+#nav-1{
+    height: 100px;
+    width: 100%;
+    background-color: #262626;
+    display: flex;
+    border-top: 1px solid black;
+}
+#diagonose{
+    height: 100px;
+    width: 500px;
+}
+#diagonose img{
+    margin-left: 200px;
+}
+#work-time{
+    height: 40px ;
+    width: 280px;
+    margin-top: 30px;
+    background-image: url(assests/work-time.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+#address{
+    height: 40px;
+    width: 230px;
+    margin-top: 30px;
+    margin-left: 15px;
+    background-image: url(assests/address.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+#contact{
+    height: 40px ;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 15px;
+    background-image: url(assests/cantact.png);
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+#nav-2{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+#nav-lst{
+    height: 60px;
+    width: 70%;
+}
+#nav-lst ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    margin-left: 160px;
+    color: rgb(56, 55, 55);
+    font-size: 20px;
+}
+#dialog{
+    height: 60px;
+    width: 60px;
+    margin-left: 115px;
+}
+#dialog img{
+    margin-top: 15px;
+    margin-left: 22px;
+}
+#search{
+    height: 60px;
+    width: 60px;
+}
+#search img{
+    margin-top: 15px;
+}
+#banner-1{
+    height: 800px;
+    width: 100%;
+    background-image: url(assests/banner-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid white;
+}
+.banner-content{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+#our-services{
+    height: 40px;
+    width: 150px;
+    color: white;
+    margin: 0px auto;
+    background-color: #1f71d0;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+}
+#banner-2{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+#car{
+    height: 100%;
+    width: 50%;
+}
+#car img{
+    height: 170px;
+    width: 600px;
+    margin: 170px 0px 0px 140px;
+}
+#banner2-content{
+    height: 100%;
+    width: 50%;
+}
+.cont-banner2{
+    color: grey;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.check-it{
+    height: 30px;
+    width: 70px;
+    border: 3px solid #1f71d0;
+    color: #1f71d0;
+    text-align: center;
+    margin-left: 60px;
+    padding-top: 7px;
+}
+.check-it:hover{
+    color: white;
+    background-color: #1f71d0;
+}
+#banner-3{
+    height: 730px;
+    width: 100%;
+    background-image: url(assests/back-img-banner-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+}
+#graph{
+    height: 100%;
+    width: 50%;
+}
+#graph img{
+    margin-left: 183px;
+    margin-top: 172px;
+}
+#mechanic{
+    height: 100%;
+    width: 50%;
+}
+#mechanic img{
+    margin-left: 170px;
+    margin-top: 60px;
+}
+#banner-4{
+    height: 920px;
+    width: 100%;
+    display: flex
+}
+#img-collection{
+    height: 100%;
+    width: 40%;
+}
+#img-1{
+    height:290px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+#img-1 img{
+    height: 100%;
+    width: 100%;
+}
+#img-2{
+    height: 290px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+#img-2 img{
+    height: 100%;
+    width: 100%;
+}
+#img-3{
+    height: 290px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+#img-3 img{
+    height: 100%;
+    width: 100%;
+}
+#car-4{
+    height: 100%;
+    width: 60%;
+}
+#car-4 img{
+    height: 900px;
+    width: 750px;
+    margin-top: 10px;
+}
+#banner-5{
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+#banner5-content{
+    height: 100%;
+    width: 50%;
+}
+.banner5-cont{
+    color: grey;
+    font-size: 20px;
+    margin-left: 60px;
+}
+#banner5-img{
+    height: 100%;
+    width: 50%;
+}
+#banner5-img img{
+    height: 100%;
+    width: 100%;
+}
+#banner-6{
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+#banner6-img{
+    height: 100%;
+    width: 50%;
+}
+#banner6-img img{
+    height: 100%;
+    width: 100%;
+}
+#banner6-cards{
+    height: 100%;
+    width: 50%;
+    display: flex;
+}
+#card-1{
+    margin-top: 170px;
+}
+#card-2{
+    margin-top: 170px;
+}
+#banner-7{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    gap: 30px;
+    padding-top: 50px;
+    padding-left: 300px;
+}
+#card7-1{
+    height: 400px;
+    width: 300px;
+}
+#card7-1 img{
+    height: 100%;
+    width: 100%;
+}
+#card7-2{
+    height: 400px;
+    width: 300px;
+}
+#card7-2 img{
+    height: 100%;
+    width: 100%;
+}
+#card7-3{
+    height: 400px;
+    width: 300px;
+}
+#card7-3 img{
+    height: 100%;
+    width: 100%;
+}
+.cards7:hover{
+    border-top: 3px solid #1f71d0;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+#between-txt{
+    font-size: 30px;
+    font-weight: 700px;
+    margin-left: 600px;
+}
+#news-1{
+    height: 320px;
+    width: 100%;
+}
+#news-1 img{
+    margin-left: 170px;
+}
+#news-2{
+    height: 320px;
+    width: 100%;
+}
+#news-2 img{
+    margin-left: 170px;
+}
+#banner-8{
+    height: 200px;
+    width: 100%;
+}
+#banner-8 img{
+    margin-left: 180px;
+    margin-top: 50px;
+}
+#banner-9{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    background-image: url(assests/banner-9-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#iframe{
+    height: 100%;
+    width: 50%;
+}
+iframe{
+    height: 100%;
+    width: 100%;
+}
+#form{
+    height: 100%;
+    width: 50%;
+}
+input{
+    height: 40px;
+    width: 300px;
+}
